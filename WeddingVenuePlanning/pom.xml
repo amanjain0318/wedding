@@ -12,7 +12,6 @@
 	<artifactId>WeddingVenuePlanning</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>WeddingPlanning</name>
-	<packaging>war</packaging>
 	<description>Demo Project for Wedding Planning</description>
 	<properties>
 		<java.version>17</java.version>
@@ -59,7 +58,6 @@
 	</dependencies>
 
 	<build>
-		<finalName>WeddingApplication</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
